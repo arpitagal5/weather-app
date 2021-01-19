@@ -1,0 +1,23 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.7em;
+  }
+  .container{
+    max-width: 400px;
+   
+  }
+  .icon{
+    position:relative;
+    margin-bottom:-50px;
+    border-radius: 50%;
+    top:-50px;
+    width: 100px;
+    
+  }
+
+   .date {
+    font-size: 30px;
+    text-align: center;
+    margin:100px;  
+  }
